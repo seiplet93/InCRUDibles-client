@@ -4,7 +4,7 @@
 Eric Duarte, Emily Kiss, Mitchell Marino, Terry Seiple
 
 #### Deployed Link: 
-<httpfjkads;klfjdksa;>
+https://check-mate-app.netlify.app/
 
 ![](./Pictures/CheckmateScreenshot.png)
 
